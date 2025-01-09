@@ -27,7 +27,7 @@ Sales Terminal: A guided Python project creating a functional sales application.
 Shein Dataset Analysis: Queried and analyzed sales trends.
 Olist Sales Analysis: Comprehensive data analysis and insights into e-commerce performance.
 Currently learning advanced Tableau techniques.
-CS50: Introduction to Computer Science (in progress):
+CS50: Introduction to Computer Science:
 
 Explored foundational concepts in computer science, including algorithms, data structures, and web development basics.
 
